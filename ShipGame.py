@@ -1,7 +1,5 @@
 # Author: Matthew Tinnel
 # GitHub username: Tincaniam
-# Date: 2-24-22
-# Description: Portfolio Project for CS-162.
 #
 # This program allows two people to play the game Battleship.
 # Each player has their own 10x10 grid they place their ships on. On their turn, they can fire a torpedo
