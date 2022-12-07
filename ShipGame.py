@@ -461,7 +461,7 @@ if __name__ == "__main__":
     game = ShipGame()
     game.place_ship('first', 5, 'B2', 'C')
     game.place_ship('first', 2, 'I8', 'R')
-    game.place_ship('second', 3, 'H2, 'C')
+    game.place_ship('second', 3, 'H2', 'C')
     game.place_ship('second', 2, 'A1', 'C')
     game.place_ship('first', 8, 'H2', 'R')
     game.fire_torpedo('first', 'H3')
