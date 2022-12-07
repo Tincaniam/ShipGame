@@ -454,3 +454,6 @@ class ShipGame:
                 string1 += str(each_value + " ")
             # Prints the result to the display.
             print(string1)
+            
+
+if __name__ == "__main__":
